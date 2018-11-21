@@ -7,4 +7,7 @@
 - Check [demo](https://vinitshahdeo.github.io/CodeChefVIT/) here.
 - Front-end Framework used - [Bootstrap](https://getbootstrap.com/)
 
+
+[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/CodeChefVIT.svg?style=social)](https://github.com/vinitshahdeo/CodeChefVIT/blob/master/LICENSE) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow&style=social)](https://github.com/vinitshahdeo/)
+
 #### Made with <span class="heart">❤</span> by [Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)
