@@ -8,6 +8,10 @@
 - Front-end Framework used - [Bootstrap](https://getbootstrap.com/)
 
 
-[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/CodeChefVIT.svg?style=social)](https://github.com/vinitshahdeo/CodeChefVIT/blob/master/LICENSE) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow&style=social)](https://github.com/vinitshahdeo/)
+
+[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/CodeChefVIT.svg?style=social)](https://github.com/vinitshahdeo/CodeChefVIT/blob/master/LICENSE) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow&style=social)](https://github.com/vinitshahdeo/) 
+[![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/CodeChefVIT.svg?style=social)](https://github.com/vinitshahdeo/CodeChefVIT/network)
+
+
 
 #### Made with <span class="heart">❤</span> by [Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)
